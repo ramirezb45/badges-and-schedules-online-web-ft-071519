@@ -2,7 +2,7 @@ def batch_badge_creator(name)
   ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
 end
 
-def assign_rooms(room)
+def assign_rooms(num)
   [1,2,3,4,5,6,7]
 end
 
