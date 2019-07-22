@@ -1,4 +1,12 @@
-def batch_badge_creator
+def batch_badge_creator(name)
+  ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
+end
+
+def assign_rooms(room)
+  [1,2,3,4,5,6,7]
+end
+
+puts "Hello #{name}! You'll be assigned to room"
 
 
 
